@@ -3,6 +3,8 @@ this is a very sophisticated repository
 
 Adding this line
 
-I wonder what will happen <removed>
+I wonderfully what will happen <removed>
 
-And then - delete from here
+And then - deleted from here
+
+Adding fourth line
